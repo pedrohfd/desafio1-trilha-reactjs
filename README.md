@@ -16,8 +16,8 @@ Desafio principal da trilha ReactJS do bootcamp Ignite. Capitulo I
 
 ## Resumo
 
-Uma aplicação todo list, com possibilidade de adicionar tasks, remover tasks e marca-las como concluidas.
+Uma aplicação to.do list, com possibilidade de adicionar tasks, remover tasks e marca-las como concluídas.
 
 ## Conclusão
 
-Nesse primeiro capitulo do Ignite, nós aprendemos como configurar os arquivos principais de uma aplicação ReactJS, componentização, imutabilidade, chamadas HTTP e fundamentos do Typescript. 
+Nesse primeiro capítulo do Ignite, nós aprendemos como configurar os arquivos principais de uma aplicação ReactJS, componentização, imutabilidade, chamadas HTTP e fundamentos do Typescript. 
