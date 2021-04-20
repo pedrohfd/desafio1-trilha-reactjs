@@ -1,18 +1,16 @@
 # Ignite - Desafio 01
 Desafio principal da trilha ReactJS do bootcamp Ignite. Capitulo I
 
-## Screenshot - Resultado Final
-
 ![](/Resultado.png)
 
 ## Tecnologias
 
 ### React JS
-- Typescript
-- Yarn
-- Scss
-- Webpack
-- Babel
+- [TypeScript](https://www.typescriptlang.org/)
+- [Yarn](https://yarnpkg.com/)
+- [Scss](https://sass-lang.com/)
+- [Webpack](https://webpack.js.org/)
+- [Babel](https://babeljs.io/)
 
 ## Resumo
 
